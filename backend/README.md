@@ -1,0 +1,1 @@
+# MiniJournal Backend\n\nSimple journaling API built with Express, MongoDB, and JWT authentication.\n\n## Setup\n```bash\nnpm install\nnpm run dev\n```\n
